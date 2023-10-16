@@ -1,5 +1,5 @@
 class CbEndpoints {
-  static const baseUrl = "https://cubex-api-shonubijerry.vercel.app/api";
+  static const baseUrl = "https://api.app/api";
   static const flwbaseUrl = "https://api.flutterwave.com/v3";
 
   static const login = "/auth/login";
